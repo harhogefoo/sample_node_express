@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "ejs": "^2.5.7",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
   },
   "name": "sample_node_express",
   "version": "1.0.0",
