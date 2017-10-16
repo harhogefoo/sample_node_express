@@ -2,6 +2,8 @@
 ## 環境構築
 ```
 $ yarn add express
+$ yarn add ejs
+$ yarn add mongodb
 $ yarn init
 ```
 
